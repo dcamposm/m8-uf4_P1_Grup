@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo "Error error";
+            echo "Error error error";
         ?>
     </body>
 </html>
