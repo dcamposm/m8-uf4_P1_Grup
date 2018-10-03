@@ -29,7 +29,7 @@
             }
 
             public function suma(){
-                echo "1+1";
+                echo "1+2";
             }
         }
         ?>
