@@ -7,11 +7,11 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Denis Pereira</title>
+        <title></title>
     </head>
     <body>
         <?php
-            echo "prueba de error";
+        // Albert
         ?>
     </body>
 </html>
