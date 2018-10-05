@@ -20,6 +20,7 @@ and open the template in the editor.
             }
             class albert{
                 public function hi1(){
+                    echo "Ahí te va el error";
                 }
             }
             class denis{
