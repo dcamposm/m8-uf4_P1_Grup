@@ -12,6 +12,21 @@ and open the template in the editor.
     <body>
         <?php
             echo "Error error error";
+            
+            
+            class demetrio{
+                public function hi1(){
+                }
+            }
+            class alberto{
+                public function hi1(){
+                }
+            }
+            class denis{
+                public function hi1(){
+                }
+            }
+            
         ?>
     </body>
 </html>
