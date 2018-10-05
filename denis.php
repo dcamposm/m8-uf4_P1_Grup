@@ -18,7 +18,7 @@ and open the template in the editor.
                 public function hi1(){
                 }
             }
-            class alberto{
+            class albert{
                 public function hi1(){
                 }
             }
