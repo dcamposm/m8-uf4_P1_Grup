@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-         echo "me"
+         echo "esto va a dar error";
         ?>
     </body>
 </html>
